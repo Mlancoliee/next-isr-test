@@ -1,9 +1,9 @@
 {
   "/_not-found/page": "/_not-found",
   "/api/revalidate/route": "/api/revalidate",
-  "/page": "/",
   "/ssg/page": "/ssg",
+  "/page": "/",
   "/ssr/page": "/ssr",
-  "/blog/[id]/page": "/blog/[id]",
-  "/isr/page": "/isr"
+  "/isr/page": "/isr",
+  "/blog/[id]/page": "/blog/[id]"
 }

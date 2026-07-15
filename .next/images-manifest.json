@@ -21,9 +21,9 @@
       256,
       384
     ],
-    "path": "/_next/image/",
-    "loader": "custom",
-    "loaderFile": "/Users/jesper/Desktop/develop/full-stack-deployment/ef-dev-tools/examples/next-isr-demo/.edgeone/image-loader.mjs",
+    "path": "/_next/image",
+    "loader": "default",
+    "loaderFile": "",
     "domains": [],
     "disableStaticImages": false,
     "minimumCacheTTL": 60,
