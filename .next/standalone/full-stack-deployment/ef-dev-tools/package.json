@@ -1,0 +1,25 @@
+{
+  "name": "ef-dev-tools-playground",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@edgeone/opennextjs-pages": "^0.1.3",
+    "argon2": "^0.44.0",
+    "express": "^5.1.0",
+    "ws": "^8.19.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "lucide-react": "latest",
+    "postcss": "^8.5.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "sqlite3": "^5.1.7",
+    "vite": "^7.0.4"
+  }
+}
